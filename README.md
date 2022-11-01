@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @sameralkrenawi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning software engineering B.A degree 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : salkrenawi@gmail.com
-
-<!---
-sameralkrenawi/sameralkrenawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 looking to be a DATABASE MASTER 
+- 🌱 I’m currently learning software engineering B.Sc. degree ,4th year
+- 💡  Some technologies I enjoy working with include Java, Python, oracle SQL, Git, HTML, CSS, javascript, Linux.
+- 👨‍💻  I am practising on codecademy, LeetCode, HackerRank
+- ✉️  Get in touch with me via email at  samer-335@hotmail.co.il  | salkrenawi@gmail.com  or linkedin ; 
